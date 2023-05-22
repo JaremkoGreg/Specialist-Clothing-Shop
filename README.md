@@ -1,7 +1,7 @@
 # Specialist-Clothing-Shop
 This is the code for my Website which specialises in Manchester United Shirts.
 URL for the website: http://reddevilsretroshirts.infinityfreeapp.com/index.html
-The best way to test the website is to do the following:
+# The best way to test the website is to do the following:
 1. Navigate through all the options at the top of the page like "About us, Products, members" etc.
 2. in the members area login using the following credentials. email: greg@email.com password: password123
 3. next, you can add another user this time think of the credential yourself.
